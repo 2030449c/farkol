@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # -----------------------------------------------------------------
 # .gitignore for WordPress
 # Bare Minimum Git
@@ -98,3 +99,18 @@ wp-content/themes/twenty*/
 
 # ignore node/grunt dependency directories
 node_modules/
+=======
+*.log
+.htaccess
+sitemap.xml
+sitemap.xml.gz
+wp-config.php
+wp-content/advanced-cache.php
+wp-content/backup-db/
+wp-content/backups/
+wp-content/blogs.dir/
+wp-content/cache/
+wp-content/upgrade/
+wp-content/uploads/
+wp-content/wp-cache-config.php
+>>>>>>> 4a4fb5ffec9730efd06db6ea836412b634a1ebc8
